@@ -21,8 +21,6 @@
 
 
 # About Me 
-   
-### "Hello World!"
 
 I am currently pursuing my studies in Web Design and Coding at Istanbul University. 
 With a strong foundation in C and JavaScript at an intermediate level, I am dedicated to honing my skills and expanding my knowledge.
