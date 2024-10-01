@@ -13,11 +13,11 @@
 </div>
 
 
-# About Me 
-
-I am currently pursuing my studies in Web Design and Coding at Istanbul University. 
-With a strong foundation in C and JavaScript at an intermediate level, I am dedicated to honing my skills and expanding my knowledge.
-As I prepare for the rigorous challenges of Ecole 42, I am driven by a profound passion for software development and a firm belief in my potential to excel in this dynamic field.
-My commitment to continuous learning and professional growth underscores my aspiration to become a successful software developer.
+  About Me 
+---------------
+> I am currently pursuing my studies in Web Design and Coding at Istanbul University.
+> With a strong foundation in C and JavaScript at an intermediate level, I am dedicated to honing my skills and expanding my knowledge.
+> As I prepare for the rigorous challenges of Ecole 42, I am driven by a profound passion for software development and a firm belief in my potential to excel in this dynamic field.
+> My commitment to continuous learning and professional growth underscores my aspiration to become a successful software developer. 
 
 <br>
